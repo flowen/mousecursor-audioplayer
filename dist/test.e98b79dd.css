@@ -1,0 +1,15 @@
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: gold;
+}
+
+#canvas {
+  border: 1px solid #1d1d1d;
+  touch-action: none;
+}
+
+/*# sourceMappingURL=/test.e98b79dd.css.map */

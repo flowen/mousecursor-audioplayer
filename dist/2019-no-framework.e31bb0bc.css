@@ -1,0 +1,28 @@
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: gold;
+}
+
+#canvas {
+  border: 1px solid #1d1d1d;
+  touch-action: none;
+}
+
+.modal {
+  position: absolute;
+  top: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30vw;
+  min-width: 200px;
+  padding: 25px;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/*# sourceMappingURL=/2019-no-framework.e31bb0bc.css.map */
